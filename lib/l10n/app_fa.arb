@@ -1,0 +1,16 @@
+{
+  "@@locale": "fa",
+  "homePage": "صفحه اصلی",
+  "greeting": "به برنامه ما خوش آمدید!",
+  "homePageDetailed": "جزئیات صفحه اصلی",
+  "search": "جستجو",
+  "profile": "پروفایل",
+  "go_to_details": "به جزئیات بروید",
+  "go_to_settings": "به تنظیمات بروید",
+  "search_details": "جزئیات جستجو",
+  "settings": "تنظیمات",
+  "settings_page_text": "این صفحه تنظیمات است",
+  "search_details_page_text": "این صفحه جزئیات جستجو است",
+  "select_language": "انتخاب زبان",
+  "tap":"ضربه بزنید"
+}

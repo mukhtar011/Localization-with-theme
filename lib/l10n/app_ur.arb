@@ -1,0 +1,16 @@
+{
+  "@@locale": "ur",
+  "homePage": "ہوم پیج",
+  "greeting": "ہماری ایپ میں خوش آمدید!",
+  "homePageDetailed": "ہوم تفصیلات",
+  "search": "تلاش",
+  "profile": "پروفائل",
+  "go_to_details": "تفصیلات پر جائیں",
+  "go_to_settings": "ترتیبات پر جائیں",
+  "search_details": "تلاش کی تفصیلات",
+  "settings": "ترتیبات",
+  "settings_page_text": "یہ ترتیبات کا صفحہ ہے",
+  "search_details_page_text": "یہ تلاش کی تفصیلات کا صفحہ ہے",
+  "select_language": "زبان منتخب کریں",
+  "tap":"ٹیپ کریں"
+}

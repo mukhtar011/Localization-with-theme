@@ -1,0 +1,16 @@
+{
+  "@@locale": "en",
+  "homePage": "Home Page",
+  "greeting": "Welcome to our app!",
+  "homePageDetailed": "Home Details",
+  "search": "Search",
+  "profile": "Profile",
+  "go_to_details": "Go to Details",
+  "go_to_settings": "Go to Settings",
+  "search_details": "Search Details",
+  "settings": "Settings",
+  "settings_page_text": "This is the settings page",
+  "search_details_page_text": "This is the search details page",
+  "select_language": "Select Language",
+  "tap": "Tap"
+}

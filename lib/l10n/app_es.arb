@@ -1,0 +1,16 @@
+{
+  "@@locale": "es",
+   "homePage": "Página de Inicio",
+  "greeting": "¡Bienvenido a nuestra aplicación!",
+   "homePageDetailed": "Detalles del Inicio",
+  "search": "Buscar",
+  "profile": "Perfil",
+  "go_to_details": "Ir a Detalles",
+  "go_to_settings": "Ir a Configuraciones",
+  "search_details": "Detalles de Búsqueda",
+  "settings": "Configuraciones",
+  "settings_page_text": "Esta es la página de configuraciones",
+  "search_details_page_text": "Esta es la página de detalles de búsqueda",
+  "select_language":"Seleccionar idioma",
+  "tap": "Tocar"
+}
